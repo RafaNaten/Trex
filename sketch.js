@@ -68,6 +68,7 @@ function setup() {
   score = 0;
 }
 
+
 function draw() {
   //trex.debug = true;
   background("pink");
